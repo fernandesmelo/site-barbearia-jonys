@@ -6,9 +6,9 @@ Este projeto consiste em um site para a [Barbearia Jonys](https://fernandesmelo.
 
 O projeto "Mentalista" é um jogo de adivinhação onde o jogador tenta acertar um número escolhido aleatoriamente pela máquina. Suas funcionalidades principais são:
 
-✅ **Formulário para Contato:** Nome e sobrenome, email, telefone, mensagem preferência de contato (por email, telefone ou WhatsApp), horário de preferência para ser atendido (manhã, tarde, noite)e opção para receber novidades por email.
+✅ *Formulário para Contato:* Nome e sobrenome, email, telefone, mensagem preferência de contato (por email, telefone ou WhatsApp), horário de preferência para ser atendido (manhã, tarde, noite)e opção para receber novidades por email.
 
-✅ **Página de Confirmação (enviado.html):** Mostra uma mensagem de confirmação após o envio bem-sucedido do formulário de contato e indica que a barbearia entrará em contato em breve.
+✅ *Página de Confirmação (enviado.html):* Mostra uma mensagem de confirmação após o envio bem-sucedido do formulário de contato e indica que a barbearia entrará em contato em breve.
 
 ## 🚀 Começando
 
