@@ -4,11 +4,13 @@ Este projeto consiste em um site para a [Barbearia Jonys](https://fernandesmelo.
 
 ![Captura de tela 2023-08-30 143342](https://github.com/fernandesmelo/mentalista/assets/113717317/8edc95ed-d844-4814-914b-b4982f34e13d)
 
-O projeto "Mentalista" é um jogo de adivinhação onde o jogador tenta acertar um número escolhido aleatoriamente pela máquina. Suas funcionalidades principais são:
+As funcionalidades do site Barbearia Jonys são:
 
 ✅ *Formulário para Contato:* Nome e sobrenome, email, telefone, mensagem preferência de contato (por email, telefone ou WhatsApp), horário de preferência para ser atendido (manhã, tarde, noite)e opção para receber novidades por email.
 
-✅ *Página de Confirmação (enviado.html):* Mostra uma mensagem de confirmação após o envio bem-sucedido do formulário de contato e indica que a barbearia entrará em contato em breve.
+✅ *Página de Confirmação:* Mostra uma mensagem de confirmação após o envio bem-sucedido do formulário de contato e indica que a barbearia entrará em contato em breve.
+
+Essas funcionalidades criam uma experiência conveniente para os usuários ao permitir que eles entrem em contato com a Barbearia Jonys de maneira flexível, escolhendo suas preferências de contato e horários desejados. Além disso, fornecem feedback imediato após o envio do formulário, garantindo aos usuários que sua mensagem foi recebida com sucesso e que a barbearia entrará em contato em breve. Isso contribui para uma experiência positiva e eficaz.
 
 ## 🚀 Começando
 
