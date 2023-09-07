@@ -2,7 +2,7 @@
 
 Este projeto consiste em um site para a [Barbearia Jonys](https://fernandesmelo.github.io/mentalista/) que inclui páginas para apresentar informações sobre a barbearia, seus produtos e serviços, bem como uma página de contato com um formulário e uma página de confirmação após o envio do formulário de contato. O mesmo elaborei atraés dos cursos de HTML5 e CSS3 parte 1,2 ,3 e 4 que fiz na Alura.
 
-![Captura de tela 2023-08-30 143342](https://github.com/fernandesmelo/mentalista/assets/113717317/8edc95ed-d844-4814-914b-b4982f34e13d)
+[screen-capture.webm](https://github.com/fernandesmelo/site-barbearia-jonys/assets/113717317/4df82a2c-b74e-481a-a891-b9eb21d22e55)
 
 As funcionalidades do site Barbearia Jonys são:
 
