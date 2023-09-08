@@ -59,4 +59,4 @@ Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 
-Agradeço a [Pedro Marins](https://www.linkedin.com/in/pedromarins/) que foi o instrutor dos cursos na qual pude elaborar esse projeto.
+Agradeço a [Pedro Marins](https://www.linkedin.com/in/pedromarins/) que foi o instrutor dos cursos na qual pude elaborar esse projeto 🫂.
