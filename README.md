@@ -43,7 +43,7 @@ Próximos passos...
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-## 🔨 Decisões de Tecnologia
+## 🔨 Tomada de Decisões
 
 * **HTML** - Linguagem de Marcação para páginas Web.
 * **CSS** - Linguagem de Estilização para páginas Web.
